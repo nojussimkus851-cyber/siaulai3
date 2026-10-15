@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reeconsteel.com/sitemap.xml
